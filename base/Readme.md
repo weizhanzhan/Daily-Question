@@ -48,3 +48,6 @@
 + [【Q122】在发送 http 请求报文时，Host 是必要的吗](http/123.html)
 + [【Q123】如何监控文件系统的变动](os/124.html)
 + [【Q127】vpn 的原理是什么](network/128.html)
++ [【Q129】shell 中 ${} 与 $() 各是什么意思](linux/130.html)
++ [【Q133】http 响应头中如果 content-type 为 application/octet-stream，则代表什么意思](http/134.html)
++ [【Q134】ssh 的原理是什么](network/135.html)
